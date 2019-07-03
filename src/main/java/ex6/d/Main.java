@@ -20,7 +20,7 @@ public class Main {
         matrix.addColumn();
         matrix.addColumn();
 
-        System.out.println("3 x 3 matrix: \n" + matrix.toString());
+        System.out.println("3 x 3 matrix: \n" + matrix);
 
         matrix.removeColumn();
 
